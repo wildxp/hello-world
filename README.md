@@ -1,2 +1,7 @@
 # hello-world
-My first repository via the github hello-world guide
+
+Greetings and salutations!
+
+My name is Austin, and I love Power BI. I also enjoy pineapple on my pizza on occasion.
+
+Dogs RULE!
